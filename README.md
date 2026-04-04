@@ -1,6 +1,6 @@
-# Hey, I'm Kevin 👋
+# Hey, I'm Kevin Sigey 
 
-I'm a software engineer passionate about **quantitative finance**, **algorithmic trading**, and **AI-driven automation**. I build production systems that sit at the intersection of machine learning, market data, and real-world deployment.
+I'm a business analyst passionate about **quantitative finance**, **algorithmic trading**, and **AI-driven automation**. I build production systems that sit at the intersection of machine learning, market data, and real-world deployment.
 
 - 🏦 Currently building automated trading systems and prediction-market edge finders
 - 🤖 Interested in agentic AI workflows, LLM-powered automation, and quant research
