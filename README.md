@@ -41,7 +41,7 @@ Prediction-market edge finder for Kalshi (SPX, QQQ, BTC, ETH) combining LightGBM
 - Composite sentiment scoring: Crypto Fear & Greed, VIX-derived, and price momentum
 - Cross-venue arbitrage detection between Kalshi and PredictIt (>5% delta threshold)
 
-*123 commits*
+*124 commits*
 
 ---
 
