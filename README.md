@@ -56,7 +56,7 @@ Production quantitative trading monorepo that discovers arbitrage edges in predi
 - PM2 process management for resilient background scanning every 30 seconds
 - Strict secret split: high-clearance backend tokens vs. public VITE_ frontend config
 
-*87 commits*
+*92 commits*
 
 ---
 
