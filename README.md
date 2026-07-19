@@ -4,7 +4,7 @@ I'm a business analyst passionate about **quantitative finance**, **algorithmic 
 
 - 🏦 Currently building automated trading systems and prediction-market edge finders
 - 🤖 Interested in agentic AI workflows, LLM-powered automation, and quant research
-- 📚 CS student at the University of Illinois Urbana-Champaign
+- 📚 MSBA at the University of Illinois Urbana-Champaign
 - 📫 Reach me at **sigeykevin@gmail.com**
 
 ---
@@ -94,3 +94,4 @@ On-chain stablecoin analytics project studying cross-border remittance flows bet
 |---|---|
 | GitHub | [@Kevocado](https://github.com/Kevocado) |
 | Email | [sigeykevin@gmail.com](mailto:sigeykevin@gmail.com) |
+| Linkedin| https://www.linkedin.com/in/kevin-sigey-72a5501b5/
