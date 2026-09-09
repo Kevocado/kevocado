@@ -9,6 +9,17 @@ I'm a business analyst passionate about **quantitative finance**, **algorithmic 
 
 ---
 
+## 🚀 Latest Project Highlights
+
+- [PL_Predictor](https://github.com/Kevocado/PL_Predictor) — Premier League match prediction workflows and modeling experiments.
+- [F1_Predictor](https://github.com/Kevocado/F1_Predictor) — Formula 1 race outcome prediction and analytics pipelines.
+- [Sports_Predictor](https://github.com/Kevocado/Sports_Predictor) — Multi-sport prediction framework for shared data + model workflows.
+- [NFL_Predictor](https://github.com/Kevocado/NFL_Predictor) — NFL game outcome and player prop predictor.
+- [CFB_Predictor](https://github.com/Kevocado/CFB_Predictor) — College football prediction project for matchup-level forecasting.
+- [predictor-hub](https://github.com/Kevocado/predictor-hub) — Central workspace for organizing predictor project components.
+
+---
+
 <!-- TOP-REPOS-START -->
 
 ## 🏆 Featured Projects
